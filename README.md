@@ -66,4 +66,3 @@ Po uruchomieniu programu możesz:
 ## Uwagi
 
 *   Program przechowuje dane tylko w pamięci RAM. Po wyłączeniu programu dane zostaną utracone.  Aby zapewnić trwałość danych, należałoby dodać zapisywanie i odczytywanie z pliku (np. CSV, JSON) lub użyć bazy danych.
-*   Kod jest napisany prostym językiem, program przeznaczony do nauki Pythona.
